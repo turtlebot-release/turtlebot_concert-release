@@ -1,0 +1,24 @@
+ros-indigo-turtlebot-concert (0.0.3-0trusty) trusty; urgency=high
+
+  * comment out indoor 2dmap prep.
+  * add missing overrides field
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 27 Jul 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-concert (0.0.2-0trusty) trusty; urgency=high
+
+  * typo in cmake
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Mon, 11 May 2015 15:00:00 -0000
+
+ros-indigo-turtlebot-concert (0.0.1-0trusty) trusty; urgency=high
+
+  * add turtlebot concert with teleop and indoor 2d map prep
+  * Initial commit
+  * Contributors: Jihoon Lee
+
+ -- Jihoon Lee <jihoonlee.in@gmail.com>  Thu, 07 May 2015 15:00:00 -0000
+
+
